@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Atharv Jagtap</h1>
 <h3 align="center">I am an AI and MERN stack developer from IIIT Guwahati.</h3>
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400" style="margin-left: 40px;">
 <br><br> 
-- 🔭 I’m currently working on **Personal AI Bot**
+- 🔭 I’m currently working on Personal AI Bot
 
 - 🌱 I’m currently learning **Generative AI**
 
