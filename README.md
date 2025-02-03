@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/atharv-jagtap-4b4a18226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharv-jagtap-4b4a18226" height="30" width="40" /></a>
 <a href="https://kaggle.com/atharvjagtap_1813" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="atharvjagtap_1813" height="30" width="40" /></a>
-<a href="https://instagram.com/atharv.jagtap_aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atharv.jagtap_aj" height="30" width="40" /></a>
+<a href="https://instagram.com/atharvjagtap_aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atharv.jagtap_aj" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/atharv123_aj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="atharv123_aj" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/atharv123_aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atharv123_aj" height="30" width="40" /></a>
 </p>
