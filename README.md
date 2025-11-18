@@ -1,79 +1,103 @@
 <h1 align="center">Hi 👋, I'm Atharv Jagtap</h1>
-<h3 align="center">I am an AI and MERN stack developer from IIIT Guwahati.</h3>
-<img algin="center"src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="500">
-<br><br> 
-- 🌱 I’m currently learning **Generative AI**
+<h3 align="center">AI Engineer | Generative AI • LLMs • RAG • Deep Learning | MERN Stack Developer</h3>
 
-- 💬 Ask me about **ML, DL, LLM, Gen-AI, MERN**
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="500"/>
+</p>
 
-- 📫 How to reach me **jagtapatharv18@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🌟 About Me  
+- 🎓 B.Tech in Computer Science, **IIIT Guwahati**  
+- 👨‍💻 Currently working as an **AI Engineer** (Generative AI, LLMs, VectorDB, RAG, Model Optimization)  
+- 🌱 Exploring advanced **LLM architectures, agent systems, and scalable GenAI pipelines**  
+- 🧠 Strong foundation in **DSA** — solved **350+ LeetCode problems**, Peak Rating: **1716**  
+- 💬 Ask me about **ML, DL, Gen-AI, LLMs, RAG, MERN Stack**  
+- 📫 Reach me at **jagtapatharv18@gmail.com**
+
+---
+
+## 🔗 Connect with Me  
 <p align="left">
-<a href="https://linkedin.com/in/atharv-jagtap-4b4a18226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharv-jagtap-4b4a18226" height="30" width="40" /></a>
-<a href="https://kaggle.com/atharvjagtap_1813" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="atharvjagtap_1813" height="30" width="40" /></a>
-<a href="https://instagram.com/atharvjagtap_aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atharv.jagtap_aj" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/atharv123_aj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="atharv123_aj" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/atharv123_aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atharv123_aj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/atharv-jagtap-4b4a18226" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://kaggle.com/atharvjagtap_1813" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/atharvjagtap_aj/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+<a href="https://www.codechef.com/users/atharv123_aj" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" />
+</a>
+<a href="https://www.leetcode.com/atharv123_aj" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<h4>🌐 Web Development:</h4>
-<p align="left"> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
+# 🧠 Featured Projects (Aligned with Resume)
+
+### 🔥 **AI PDF Intelligence Hub — Generative AI, LangChain, RAG**  
+Full-stack AI system for PDF understanding using **LLMs, embeddings, vector DBs, and semantic RAG**.  
+🔗 Repo: https://github.com/atharv1813/chat_pdf
+
+---
+
+### 🤖 **Wide & Deep Autoencoder Recommender System**  
+Research project achieving improved NDCG metrics using hybrid recommender architecture.  
+🔗 Repo: https://github.com/atharv1813/recommendation_systems
+
+---
+
+### 🛒 **SwapShop – Campus Marketplace System (MERN Full-Stack)**  
+Secure marketplace platform with auth, roles, and real-time updates.  
+🔗 Repo: https://github.com/atharv1813/Swap-Shop
+
+---
+
+### 🏠 **Real Estate Management System (Python + Tkinter GUI)**  
+DB-backed real-estate automation system with dashboards and agent tools.  
+🔗 Repo: https://github.com/Night-Howler14/Real-Estate-GUI
+
+---
+
+## 🛠️ Languages and Tools
+
+### 🌐 Web Development  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 </p>
 
-<h4>🤖 AI/ML:</h4>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a> 
+### 🤖 AI / Machine Learning  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharv1813&show_icons=true&locale=en&layout=compact" alt="Atharv Jagtap Top Languages" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharv1813&show_icons=true&locale=en" alt="Atharv Jagtap GitHub Stats" /></p> 
+---
+
+## 📊 GitHub Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharv1813&show_icons=true&layout=compact" />
+</p>
+
+<p>
+  &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=atharv1813&show_icons=true" />
+</p>
+
