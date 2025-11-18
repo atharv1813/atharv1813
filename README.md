@@ -2,13 +2,9 @@
 <h3 align="center">I am an AI and MERN stack developer from IIIT Guwahati.</h3>
 <img algin="center"src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="500">
 <br><br> 
-- 🔭 I’m currently working on Personal AI Bot
-
 - 🌱 I’m currently learning **Generative AI**
 
-- 👯 I’m looking to collaborate on **Chabot project**
-
-- 💬 Ask me about **ML, DL, LLM, React, Tailwind,**
+- 💬 Ask me about **ML, DL, LLM, Gen-AI, MERN**
 
 - 📫 How to reach me **jagtapatharv18@gmail.com**
 
